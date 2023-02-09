@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+755 ./
+chmod -R -u RWX ./
